@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sass cache
+.sass-cache/
+
+# Compiled CSS output
+dist/css/*.css
+dist/css/*.css.map
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Optional OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# BrowserSync cache and temp files
+.bs-cache/
